@@ -1,4 +1,4 @@
-https://github.com/wangpengdc/AccessServer/blob/master/chart.jpg
+![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
 # AccessServer
   流媒体接入服务器，类似于EasyDarwin的CMS服务器功能
   主要用来对设备端以及客户端进行重定向
